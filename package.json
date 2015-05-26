@@ -1,0 +1,23 @@
+{
+  "name": "react-web-sample",
+  "version": "0.0.0",
+  "description": "Code to test the react web.",
+  "main": "server.js",
+
+  "dependencies": {
+    "body-parser": "^1.4.3",
+    "express": "^4.4.5",
+    "react": "^0.13.3",
+    "react-router": "^0.13.3"
+  },
+
+  "devDependencies": {
+
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+  
+}
